@@ -12,3 +12,9 @@ Deploying an IIS Web Server on Windows Instance
 Deploying a nginx Web Server on Ubuntu Instance
 
 [Link to the file](https://github.com/MAHIMA01/LetsUpgrade-AWS/blob/master/Project-II%20AWS-Course.pdf)
+
+## PROJECT - III
+### Description
+Creating an ELB with two instances (Linux Servers) as targets and check functioning of Elastic Load Balancer
+
+[Link to the file](https://github.com/MAHIMA01/LetsUpgrade-AWS/blob/master/Project-III%20AWS-Course.pdf)
